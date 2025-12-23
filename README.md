@@ -1,4 +1,4 @@
- 💫 About Me:
+# 💫 About Me:
 🚀 I’m currently working on: Architecting cutting-edge AIoT solutions that bridge the gap between AI and Hardware.<br><br>🤝 I’m looking to collaborate on: High-impact Open Source IoT projects and Smart System integrations.<br><br>🧠 I’m looking for help with: Mastering advanced Neural Networks for Edge Computing (TinyML).<br><br>🌱 I’m currently learning: Digital Twins technology and Real-time Data Analytics for industrial IoT.<br><br>💬 Ask me about: Embedded Systems (Arduino, ESP32, Raspberry Pi) and AI Model Deployment.<br><br>⚡ Fun fact: I don't just write code; I build systems that feel the world and respond to it.
 
 
